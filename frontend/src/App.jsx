@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Consent from "./pages/Consent";
-import Chat from "./pages/Chat";
+import Chat from "./pages/chat";
 import Bae from "./pages/Bae";
 import EMA from "./components/EMA";
 import CBDT from "./pages/CBDT";
